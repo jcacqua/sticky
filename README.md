@@ -1,4 +1,4 @@
-Sous Windows 11, pour compiler le projeet et créer un .exe , procéder comme suit : 
+Sous Windows 11, pour compiler le projet et créer un .exe , procéder comme suit : 
 
 Ouvrir une fenêtre Powershell 
 taper les commandes : 
